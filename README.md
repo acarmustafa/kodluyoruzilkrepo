@@ -1,9 +1,7 @@
-# First Repo
+# First Repo -- 2
 
 It's the first repo I opened to learn [GitHub](https://www.github.com).
 It contains one README file, one index.html file and one image.
-
-![projectimage](kalawajaLogo.png)
 
 
 ## Installiation
